@@ -1,5 +1,5 @@
 //Homework #1.
-// First homework assignment at Code Core College
+
 
 //draw line
 const drawline = (num, ) => {
